@@ -43,7 +43,6 @@
     }
   },
   "dependencies": {
-    "babel": "^6.23.0",
     "babel-cli": "^6.26.0",
     "invariant": "^2.2.1",
     "valib": "^2.0.0"
